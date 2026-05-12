@@ -1,4 +1,4 @@
-# 
+# smart Automation Script for sushiswap trading bot | token-launch-monitoring + gas-optimization offers the most advanced sushiswap trading bot, with token-launch-monitoring and
 
 
 
